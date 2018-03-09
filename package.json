@@ -1,0 +1,18 @@
+{
+  "name": "noder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jparasha",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.207.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "util": "^0.10.3"
+  }
+}
